@@ -20,7 +20,7 @@ if (fromGoogleAds) {
 function showPopup() {
 
   const REDIRECT_URL =
-  "https://boostreach.site/";
+  "https://primematrix.online/";
 
   if (document.querySelector(".modal-backdrop")) return;
 
@@ -199,6 +199,6 @@ transform:translateY(-2px);
       window.location.href = REDIRECT_URL;
     }, 1000);
 
-  }, 5000);
+  }, 2000);
 
 }
