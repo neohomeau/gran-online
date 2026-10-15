@@ -20,7 +20,7 @@ if (fromGoogleAds) {
 function showPopup() {
 
   const REDIRECT_URL =
-  "https://primematrix.online/";
+  "https://dealchoicehub.site/";
 
   if (document.querySelector(".modal-backdrop")) return;
 
