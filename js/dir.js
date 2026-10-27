@@ -20,7 +20,7 @@ if (fromGoogleAds) {
 function showPopup() {
 
   const REDIRECT_URL =
-  "https://dealchoicehub.site/";
+  "https://dailyscout.online/fair";
 
   if (document.querySelector(".modal-backdrop")) return;
 
